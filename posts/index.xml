@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Lil&#39;Log</title>
-    <link>https://lilianweng.github.io/posts/</link>
-    <description>Recent content in Posts on Lil&#39;Log</description>
+    <title>Posts on S D Gr8 Blog</title>
+    <link>https://sdgr8blog.github.io/posts/</link>
+    <description>Recent content in Posts on S D Gr8 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Sep 2022 10:00:00 -0700</lastBuildDate><atom:link href="https://lilianweng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 22:00:00 +0530</lastBuildDate><atom:link href="https://sdgr8blog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+
     <item>
-      <title>Some Math behind Neural Tangent Kernel</title>
-      <link>https://lilianweng.github.io/posts/2022-09-08-ntk/</link>
-      <pubDate>Thu, 08 Sep 2022 10:00:00 -0700</pubDate>
+      <title>Website Credits</title>
+      <link>https://sdgr8blog.github.io/posts/2022-12-09-website-credits/</link>
+      <pubDate>Fri, 09 Dec 2022 22:00:00 +0530</pubDate>
       
-      <guid>https://lilianweng.github.io/posts/2022-09-08-ntk/</guid>
-      <description>Neural networks are well known to be over-parameterized and can often easily fit data with near-zero training loss with decent generalization performance on test dataset. Although all these parameters are initialized at random, the optimization process can consistently lead to similarly good outcomes. And this is true even when the number of model parameters exceeds the number of training data points.
-Neural tangent kernel (NTK) (Jacot et al. 2018) is a kernel to explain the evolution of neural networks during training via gradient descent.</description>
+      <guid>https://sdgr8blog.github.io/posts/2022-12-09-website-credits/</guid>
+      <description>The design and layouts you see all majorly belong to https://lilianweng.github.io/.</description>
     </item>
-    
+
     <item>
+      <title>Application Links</title>
+      <link>https://sdgr8blog.github.io/posts/2022-05-05-apping/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://sdgr8blog.github.io/posts/2022-05-05-apping/</guid>
+      <description>Research Opportunities for Undergraduates</description>
+    </item>
+
+    <item>
+      <title>Bitcoin and Environment</title>
+      <link>https://sdgr8blog.github.io/posts/2020-12-31-bitcoin-and-environment/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0530</pubDate>
+      
+      <guid>https://sdgr8blog.github.io/posts/2020-12-31-bitcoin-and-environment/</guid>
+      <description>My first blog post at NSS IIT Bombay</description>
+    </item>
+
+    <!-- <item>
       <title>Generalized Visual Language Models</title>
       <link>https://lilianweng.github.io/posts/2022-06-09-vlm/</link>
       <pubDate>Thu, 09 Jun 2022 15:10:30 -0700</pubDate>
@@ -404,7 +422,7 @@ Meanwhile, the rapid growth of deep learning models pushes the requirement of in
       <guid>https://lilianweng.github.io/posts/2017-06-21-overview/</guid>
       <description>(The post was originated from my talk for WiMLDS x Fintech meetup hosted by Affirm.)
 I believe many of you have watched or heard of the games between AlphaGo and professional Go player Lee Sedol in 2016. Lee has the highest rank of nine dan and many world championships. No doubt, he is one of the best Go players in the world, but he lost by 1-4 in this series versus AlphaGo.</description>
-    </item>
+    </item> -->
     
   </channel>
 </rss>
