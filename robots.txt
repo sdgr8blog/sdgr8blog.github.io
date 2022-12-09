@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sdgr8blog.github.io/sitemap.xml
